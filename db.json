@@ -1,0 +1,60 @@
+{
+  "user": [
+    {
+      "id": "0980",
+      "department": "HR",
+      "name": "SAURABH NALE",
+      "mobile": "09511748787",
+      "email": null,
+      "gender": "male",
+      "doj": "2024-08-04",
+      "address": "Boys hostel no 3, North Maharashtra University, Jalgaon",
+      "city": "Ahemadabad",
+      "salary": "450",
+      "action": "",
+      "status": false
+    },
+    {
+      "id": "0980",
+      "department": "Account",
+      "name": "SAURABH NALE",
+      "mobile": "09511748787",
+      "email": "saurabhnalepatil@gmail.com",
+      "gender": "male",
+      "doj": null,
+      "address": "Pehalvan Nagar, Mhaisawadi, Ta. Malkapur, Dist. Buldana",
+      "city": "Pune",
+      "salary": "450",
+      "action": "",
+      "status": null
+    },
+    {
+      "id": "670a",
+      "department": "Account",
+      "name": "SAURABH NALE",
+      "mobile": "09511748787",
+      "email": "",
+      "gender": "male",
+      "doj": "2024-08-16",
+      "address": "Boys hostel no 3, North Maharashtra University, Jalgaon",
+      "city": "",
+      "salary": "452366",
+      "action": "",
+      "status": false
+    },
+    {
+      "id": "366b",
+      "department": "Management",
+      "name": "Prathamesh",
+      "mobile": "9511748787",
+      "email": "prathameshnale@gmail.com",
+      "gender": "male",
+      "doj": "2024-08-22",
+      "address": "Pehalvan Nagar",
+      "city": "Pune",
+      "salary": "7856",
+      "action": "",
+      "status": null
+    }
+  ]
+}
